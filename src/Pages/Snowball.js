@@ -55,7 +55,7 @@ function Suzie(){
   		<br/>
   		<div id="suzieImages">
   			<div id="bigImage">
-  				<img width="100%" height="100%" src={require("./Media/snowball.jpg")}/>
+  				<img alt="picture of Snowball"width="100%" height="100%" src={require("./Media/snowball.jpg")}/>
   			</div>
   			<div id="smallImages">
   				<ImageList sx={{ width: 450, height: 450 }} cols={3} rowHeight={164}>
