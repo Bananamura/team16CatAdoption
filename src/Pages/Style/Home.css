@@ -1,0 +1,25 @@
+.home {
+  position: absolute;
+  margin-right: 20px;
+  margin-left: 250px;
+  text-align: justify;
+  width: 80%;
+}
+
+
+#textHome{
+  text-align: justify;
+  position: relative;
+  left: 500px;
+  top: -321px;
+  width: 400px;
+}
+.searchBar{
+  float: right;
+}
+
+a{text-decoration: none;}
+
+img{
+  height: 300px;
+}

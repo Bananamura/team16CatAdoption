@@ -1,0 +1,15 @@
+.ourMission{
+	position: absolute;
+  margin-right: 250px;
+  margin-left: 250px;
+  text-align: justify;
+  width: 80%;
+}
+
+#ourMissionIsTo{
+	text-align: center;
+}
+
+#missionContent{
+	margin-right: 250px;
+}

@@ -1,0 +1,42 @@
+.ourCats{
+	position:absolute;
+	margin-right: 250px;
+	margin-left: 250px;
+	text-align: justify;
+	width: 80%;
+}
+
+#catsPresentationsLine1 > div{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 40px;
+}
+
+.catImg{
+	width: 250px;
+	height: 150px;
+}
+
+.catPresentation{
+	margin-left: 50px;
+}
+
+.catPresentation > Button{
+	display: inline-block;
+}
+
+.catText{
+	margin-top: 150px;
+	margin-right: 1px;
+	margin-left: 1px;
+	outline: 1px solid;
+	text-align: center;
+}
+
+.searchBar{
+	float: right;
+}
+
+img{
+	object-fit: cover;
+}

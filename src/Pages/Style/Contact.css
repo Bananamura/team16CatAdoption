@@ -1,0 +1,14 @@
+.contact{
+  position: absolute;
+  margin-right: 250px;
+  margin-left: 250px;
+  text-align: justify;
+  width: 80%;
+}
+
+.form{
+	margin-right: 550px;
+}
+textarea{
+	resize: none;
+}

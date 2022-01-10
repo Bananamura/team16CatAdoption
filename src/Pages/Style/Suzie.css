@@ -1,0 +1,29 @@
+.suzie{
+  position: absolute;
+  margin-right: 225px;
+  margin-left: 250px;
+  text-align: justify;
+  width: 80%;
+}
+
+#suzieImages > div{
+	display: inline-block;
+	vertical-align: middle;	
+}
+
+#bigImage{
+	width: 450px;
+	height: 450px;
+}
+
+#smallImages{
+	padding-left: 50px;
+}
+
+#suzieText{
+	margin-right: 200px;
+}
+
+img{
+	object-fit: cover;
+}

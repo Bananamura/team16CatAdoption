@@ -1,0 +1,80 @@
+.contactFormSubmitted {
+  position: absolute;
+  margin-right: 250px;
+  margin-left: 250px;
+  text-align: justify;
+  width: 80%;
+}
+
+.form{
+  margin-right: 300px;
+}
+
+#details{
+  display: grid;
+}
+
+#lastNameField{
+  position: relative;
+  top: -48px;
+  left: 290px;
+}
+
+#telephoneField{
+  position: relative;
+  bottom: 48px;
+  left: 290px;
+}
+
+#postalField{
+  position: relative;
+  bottom: 48px;
+  left: 290px;
+}
+
+#questions{
+}
+
+#adopt1Cat{
+  position: relative;
+  top: -19px;
+  left: 290px;
+  width: 150px;
+}
+
+#homeDivMenu {
+  padding-left: 10.5%;
+  margin-right: 2px; /* the size of the outline*/
+}
+
+#contactDivMenu {
+  margin-left: 1px;
+}
+
+#missionDivMenu {
+  margin-left: 2px;
+  margin-right: 1px;
+}
+
+#searchBar{
+  position: absolute;
+  right: 100px;
+  margin-top: 30px;
+}
+
+#catNameField{
+  position: relative;
+  left: 270px;
+}
+
+#answerQ3{
+  resize: none;
+  width: 700px;
+}
+
+.banner{
+  position: absolute;
+  top: 500px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
